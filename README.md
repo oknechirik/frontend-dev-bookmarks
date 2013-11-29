@@ -2,6 +2,7 @@
 + Mine
     + [11 шагов к созданию сайта](http://zillion.net/ru/blog/398/11-shaghov-k-sozdaniiu-saita)
     + [30 рекомендаций для создания «дружелюбного» интерфейса](http://zillion.net/ru/blog/430/30-riekomiendatsii-dlia-sozdaniia-druzhieliubnogho-intierfieisa)
+    + http://www.paulirish.com/2012/box-sizing-border-box-ftw/
 + Guides
     + [Hack Design](http://hackdesign.org/courses/)
     + [Designer School](http://designer-school.com/)
